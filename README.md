@@ -22,7 +22,9 @@ For the challenge, upon accessing one of the links I was greeted with this webpa
 ![image](https://user-images.githubusercontent.com/65858555/109410002-2d989700-79d2-11eb-8503-d2d7d46c5926.png)
 </br>
 </br>
-I was not excatly sure on what to do, but since it was easy sql I decided to use the payload `'or 1=1 -- ` on the input field which gave this</br>
+I was not excatly sure on what to do, but since it was easy sql I decided to use the payload `'or 1=1 -- ` on the input field which gave this
+</br>
+</br>
 ![image](https://user-images.githubusercontent.com/65858555/109409967-d85c8580-79d1-11eb-92db-b954e2ba7462.png)
 </br>
 </br>
