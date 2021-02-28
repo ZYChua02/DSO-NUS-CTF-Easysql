@@ -35,7 +35,7 @@ I used the payload `SELECT * FROM all_tables WHERE OWNER = 'DATABASE_NAME' `  to
 ![image](https://user-images.githubusercontent.com/65858555/109409975-ef9b7300-79d1-11eb-96fc-7e996ab8a45f.png)
 </br>
 </br>
-With the input, I decided to do a google search on it, which led me to few CTF Writeups done on 强网杯 2019.
+With the output of `return preg_match("/set|prepare|rename|alter|select|update|delete|drop|insert|where|\./i",$inject);`, I decided to do a google search on it, which led me to few CTF Writeups done on 强网杯 2019.
 I went to look at the writeups, and found that it was very similar to the challenge, with the source code also having the title easy sql.
 Thus following the writeup, I first used the payload `1';show tables# ` and got this output
 </br>
