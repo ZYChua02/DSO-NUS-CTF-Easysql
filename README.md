@@ -15,7 +15,7 @@ ctf-ea38.balancedcompo.site:9000</br>
 ctf-jfi4.balancedcompo.site:9000</br>
 ctf-ks5n.balancedcompo.site:9000</br>
 
-# Apporach
+# Approach
 For the challenge, upon accessing one of the links I was greeted with this webpage.
 </br>
 </br>
