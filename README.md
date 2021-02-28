@@ -37,7 +37,9 @@ I used the payload `SELECT * FROM all_tables WHERE OWNER = 'DATABASE_NAME' `  to
 </br>
 With the input, I decided to do a google search on it, which led me to few CTF Writeups done on 强网杯 2019.
 I went to look at the writeups, and found that it was very similar to the challenge, with the source code also having the title easy sql.
-Thus following the writeup, I first used the payload `1';show tables# ` and got this output</br>
+Thus following the writeup, I first used the payload `1';show tables# ` and got this output
+</br>
+</br>
 ![image](https://user-images.githubusercontent.com/65858555/109409987-0a6de780-79d2-11eb-8a66-9e7c83de8231.png)
 </br>
 </br>
