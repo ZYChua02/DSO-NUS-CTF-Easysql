@@ -40,6 +40,7 @@ I went to look at the writeups, and found that it was very similar to the challe
 Thus following the writeup, I first used the payload `1';show tables# ` and got this output</br>
 ![image](https://user-images.githubusercontent.com/65858555/109409987-0a6de780-79d2-11eb-8a66-9e7c83de8231.png)
 </br>
+</br>
 After seeing the same output as the one in the writeups, I read through the ways to get the flag and thought that using the handler on the table "1919810931114514" was the best way to get it. I injected the payload `1';handler `1919810931114514` open;handler `1919810931114514` read first# ` to get the results and it showed the flag.</br>
 Note: 1919810931114514 with backticks for the payload to work
 </br>
