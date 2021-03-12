@@ -51,7 +51,7 @@ Note: 1919810931114514 with backticks for the payload to work
 </br>
 </br>
 # The flag
-DSO-NUS{427a3c725d559d066e010131695880665436761182ac104f72d6a5d70912c2e6}
+`DSO-NUS{427a3c725d559d066e010131695880665436761182ac104f72d6a5d70912c2e6}`
 # Link to the writeup I referenced to
 https://www.codenong.com/cs105730558/
 
